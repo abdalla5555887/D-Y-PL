@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777590808109,
+      "tag": "0000_sparkling_garia",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777590952773,
+      "tag": "0001_same_lord_hawal",
+      "breakpoints": true
+    }
+  ]
+}
